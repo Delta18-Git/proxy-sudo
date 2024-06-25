@@ -12,8 +12,8 @@ dependencies:
     specifier: ^1.10.0
     version: 1.10.0
   jose:
-    specifier: ^5.2.0
-    version: 5.2.0
+    specifier: ^5.4.1
+    version: 5.4.1
   nitropack:
     specifier: ^2.8.1
     version: 2.8.1
@@ -2614,8 +2614,8 @@ packages:
     hasBin: true
     dev: false
 
-  /jose@5.2.0:
-    resolution: {integrity: sha512-oW3PCnvyrcm1HMvGTzqjxxfnEs9EoFOFWi2HsEGhlFVOXxTE3K9GKWVMFoFw06yPUqwpvEWic1BmtUZBI/tIjw==}
+  /jose@5.4.1:
+    resolution: {integrity: sha512-U6QajmpV/nhL9SyfAewo000fkiRQ+Yd2H0lBxJJ9apjpOgkOcBQJWOrMo917lxLptdS/n/o/xPzMkXhF46K8hQ==}
     dev: false
 
   /js-yaml@4.1.0:
